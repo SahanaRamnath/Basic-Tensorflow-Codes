@@ -10,3 +10,4 @@ This repository contains codes for implementation of ML and DL algorithms in ten
 * logreg.py : Implementing logistic regression using a single layer neural net on the MNIST data set.
 * Feedforward_NN/ffnn_raw_tf.py : Implementing a 2-layer feedforward neural network to classify the MNIST data set(Raw Tensorflow Implementation)
 * Feedforward_NN/ffnn_using_layers_tf.py : Implementing a 2-layer feedforward neural network to classify the MNIST data set(Implemented using ```tf.layers.dense``` and ```tf.estimator```APIs) .
+* CNN/cnn_raw_tf.py : Implementing a convolutional neural network to classify the MNIST data set(Raw Tensorflow Implementation)
