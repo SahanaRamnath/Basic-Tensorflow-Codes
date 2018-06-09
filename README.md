@@ -11,3 +11,4 @@ This repository contains codes for implementation of ML and DL algorithms in ten
 * Feedforward_NN/ffnn_raw_tf.py : Implementing a 2-layer feedforward neural network to classify the MNIST data set(Raw Tensorflow Implementation)
 * Feedforward_NN/ffnn_using_layers_tf.py : Implementing a 2-layer feedforward neural network to classify the MNIST data set(Implemented using ```tf.layers.dense``` and ```tf.estimator```APIs) .
 * CNN/cnn_raw_tf.py : Implementing a convolutional neural network to classify the MNIST data set(Raw Tensorflow Implementation)
+* RNN/singlelayer_lstm_mnist.py : Implementing a single(hidden)layer RNN-LSTM to classify the MNIST data set.  
